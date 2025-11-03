@@ -140,14 +140,17 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 .subtitle { 
 	font-family: 'Wire One', Helvetica, Arial, sans-serif;
 	font-weight:normal;
-	font-size:7em;
+	font-size:4em;
 	margin-bottom:15px; 
 	color:#FDF9F4; 
 	line-height:1em;
 }
+.title {
+	font-weight:bold;	
+}
 .subtitle { 
-	line-height:.9em;
-	font-size:5.5em;
+	line-height:.7em;
+	font-size:3.5em;
 	margin-top:0;
 	margin-bottom:40px; 
 }
